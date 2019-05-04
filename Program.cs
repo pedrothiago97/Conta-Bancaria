@@ -38,6 +38,7 @@ namespace ContaBancaria
             Console.WriteLine("Dados atualizados:");
             conta.Saque(quantia);
             Console.WriteLine(conta);
+            Console.WriteLine("Tenha um bom dia");
         }
     }
 }
